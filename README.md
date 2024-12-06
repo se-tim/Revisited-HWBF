@@ -9,6 +9,8 @@ This repository contains supplementary materials related to the paper:
 ## Repository Contents
 
 - **`Proof_Proposition_7.ipynb`**: SageMath 10.0 code used as a formal proof of Proposition 7.
+- **`Computation_Bound_B_n.ipynb`**: SageMath 10.0 code corresponding to the bound B_n explained in Section 5.1.
+
 
 ## About
 
