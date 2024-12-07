@@ -14,4 +14,5 @@ This repository contains supplementary materials related to the paper:
 
 ## About
 
-This repository serves as a reference for readers who wish to check the computations and code used in the paper. The materials are provided for transparency and reproducibility.
+This repository serves as a reference for readers who wish to check the computations and code used in the paper.
+The materials are provided for transparency and reproducibility.
