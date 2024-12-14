@@ -4,7 +4,7 @@ This repository contains supplementary materials related to the paper:
 
 > **"The Revisited Hidden Weight Bit Function"**  
 > Authors: Pierrick Méaux, Tim Seuré, Deng Tang  
-> (Link to be added.)
+> Link: https://ia.cr/2024/2022
 
 ## Repository Contents
 
